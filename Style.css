@@ -136,7 +136,7 @@ section{
     transition:  all .35s ease;
 }
 .box img{
-    width: 50;
+   
     height: auto;
     transition: all .40s ease;
 }
@@ -320,6 +320,7 @@ section{
     color:var(--bg-color);
     font-size: 30px;
     font-weight: 600;
+   
     transition: all .40s ease;
 }
 .contact-content li a:hover{
